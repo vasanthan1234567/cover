@@ -163,4 +163,5 @@ Publish the website in the LocalHost.
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
-![Screenshot 2025-05-03 111438](https://github.com/user-attachments/assets/b9e241e8-6b7e-4c77-b4ec-33df0484b89f)
+![Screenshot 2025-05-06 003343](https://github.com/user-attachments/assets/8a1383d2-65e5-4c11-809b-e3089248ef04)
+
